@@ -30,5 +30,5 @@ spec:
               memory: 128Mi
   podTemplate: {}
   serviceAccountName: tekton-bot
-  timeout: 12h0m0s
+  timeout: 10m0s
 status: {}
