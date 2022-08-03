@@ -6,7 +6,7 @@ ingress:
     #    hook: "myuniqueid.ngrok.io
     # so that webhooks from, say, github.com, will work to your local laptop
     #hook: "hook.jx"
-    hook: "8f04-2405-201-4015-3077-65c6-a556-f5bc-6e3c.ngrok.io"
+    hook: "7627-2405-201-4015-3077-89e4-3197-3f1a-bca1.ngrok.io"
 
 kaniko:
   # lets support insecure docker registries so that we
